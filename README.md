@@ -10,9 +10,9 @@ Track sales trends over time
 Build an interactive dashboard using Power BI best practices
 Dashboard Highlights
 KPIs
-Total Sales
-Average Sales
-Number of Items
+Total Sales,
+Average Sales,
+Number of Items,
 Average Rating
 Visualisations
 Donut Chart – Sales by Fat Content
