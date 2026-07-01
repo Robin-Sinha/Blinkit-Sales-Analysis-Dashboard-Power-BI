@@ -1,7 +1,7 @@
 Blinkit Sales Analysis Dashboard | Guided Power BI Project
 Overview
 
-This is a guided Power BI project focused on building an interactive sales dashboard using Blinkit's grocery sales dataset. The project covers the complete dashboard development process, including data cleaning, DAX calculations, field parameters, interactive visualisations, and dashboard formatting.
+This is a guided Power BI project focused on building an interactive sales dashboard using Blinkit's grocery sales dataset. The project covers the complete dashboard development process, including data cleaning, DAX calculations, field parameters, interactive visualisations and dashboard formatting.
 
 Project Objectives
 Analyse overall sales performance
